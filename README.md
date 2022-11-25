@@ -1,2 +1,2 @@
 # Tappy-Fish
-Panteon Academy - Flappy Bird Clone
+Flappy Bird Clone
